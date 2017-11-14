@@ -4,8 +4,7 @@
 #include <cstdlib> // atoi ---> transformer un string en int
 #include <ctime> // compte à rebours
 using namespace std;
-#include "fonctions.cpp"
-
+#include "fonctions.h"
 
 int main()
 {
