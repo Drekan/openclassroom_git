@@ -9,9 +9,9 @@ if(len(sys.argv)>1):
 
 	if(contient_a or contient_p):
 		if(contient_a):
-			print("Option a !!")
+			print("Option a !")
 		if(contient_p):
-			print("Option p !!")
+			print("Option p !")
 	else:
 		print("Attention : les options spécifiées sont incorrectes")
 
